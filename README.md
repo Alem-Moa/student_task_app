@@ -20,8 +20,9 @@ A Flutter mobile application that allows users to:
 - Alemsegad Muleta - 0113/15
 - Kurabachew Dereje - 0658/15
 
-## APK
-Download and install the APK file to test the app.
+## APK Download
+Download the app here:
+https://drive.google.com/file/d/1VR2Kn02iHLklFS7eGI_COwjndqHxdmTh/view?usp=sharing
 
 ## Video
 Loom Video Link: (paste here)
