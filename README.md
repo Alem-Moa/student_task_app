@@ -1,17 +1,27 @@
-# student_task_app_new
+# Student Task Manager App
 
-A new Flutter project.
+## Description
+A Flutter mobile application that allows users to:
+- Add tasks
+- Save tasks locally
+- Capture images using camera
+- Fetch data from API
 
-## Getting Started
+## Features
+- Local Storage (SharedPreferences)
+- REST API Integration
+- Camera Feature (image_picker)
+- Navigation between screens
 
-This project is a starting point for a Flutter application.
+## Group Members
+- Gutema Tonkolu - 0496/15
+- Wabi Girma - 1026/15
+- Ergama Golole - 0376/15
+- Alemsegad Muleta - 0113/15
+- Kurabachew Dereje - 0658/15
 
-A few resources to get you started if this is your first Flutter project:
+## APK
+Download and install the APK file to test the app.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Video
+Loom Video Link: (paste here)
