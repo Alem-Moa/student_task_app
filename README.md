@@ -22,7 +22,7 @@ A Flutter mobile application that allows users to:
 
 ## APK Download
 Download the app here:
-https://drive.google.com/file/d/1VR2Kn02iHLklFS7eGI_COwjndqHxdmTh/view?usp=sharing
+https://drive.google.com/file/d/14j0C5-l6EqFxjyX1Pi_IwtFCoT1zUaZU/view?usp=sharing
 
 ## Video
 Loom Video Link: (paste here)
