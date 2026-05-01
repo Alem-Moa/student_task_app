@@ -25,4 +25,4 @@ Download the app here:
 https://drive.google.com/file/d/14j0C5-l6EqFxjyX1Pi_IwtFCoT1zUaZU/view?usp=sharing
 
 ## Video
-Loom Video Link: (paste here)
+Loom Video Link: https://www.loom.com/share/f500a68efbe44e01816b39511ea47de4
